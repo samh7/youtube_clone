@@ -3,7 +3,7 @@
 #### Description
 
 This is a simple responsive youtube clone using only css(Tailwind) and html.
-To keep it simple minute details like fonts weren't added, although I might add the later.
+To keep it simple, minute details like fonts weren't added, although I might add them later.
 
 ### Demos
 
